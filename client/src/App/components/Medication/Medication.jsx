@@ -22,7 +22,7 @@ const App = () => {
         
 
         {/* Main Content - Medication Management */}
-        <div className="flex-1 bg-white   ">
+        <div className="flex-1 bg-customGreen   ">
         <div className="bg-white  p-4 ">
         <Header />
         </div>

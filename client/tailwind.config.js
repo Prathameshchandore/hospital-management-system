@@ -14,6 +14,7 @@ export default {
         gradientMiddle: '#FDE2E0',
         gradientMiddle2: '#E6E4EA',
         gradientEnd: '#E0E9F4',
+        customGreen: '#f3fefc',
       },
     },
   },
